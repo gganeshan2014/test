@@ -1,0 +1,5 @@
+java -jar jenkins.war --enable-future-java --httpPort=9090
+ 
+https://updates.jenkins.io/download/plugins/
+
+https://www.jenkins.io/download/
